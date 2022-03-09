@@ -4,7 +4,7 @@
 ✨ **Front-end Developer** <br>
 ✨ **FullStack Development Student at <a href="https://www.resilia.com.br/" alt="resilia">Resilia Educação</a>** <br>
 ✨ **Computer Science Student at <a href="https://ufrj.br/" alt="ufrj">UFRJ</a>** <br>
-✨ **Trainee FullStack Developer at <a href="https://ejcm.com.br/" alt="ejcm">EJCM Consultoria</a>**
+✨ **FullStack Developer at <a href="https://ejcm.com.br/" alt="ejcm">EJCM Consultoria</a>**
 
 <a href="mailto:vitorlcardoso17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/vitor-lucio-giorgio"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
