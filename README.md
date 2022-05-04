@@ -1,10 +1,8 @@
 # Vitor Giorgio 👨‍💻
 <div>   
  
-✨ **Front-end Developer** <br>
-✨ **FullStack Development Student at <a href="https://www.resilia.com.br/" alt="resilia">Resilia Educação</a>** <br>
+✨ **Software Developer at <a href="https://ciandt.com/br/pt-br" alt="ufrj">CI&T</a>** <br>
 ✨ **Computer Science Student at <a href="https://ufrj.br/" alt="ufrj">UFRJ</a>** <br>
-✨ **FullStack Developer at <a href="https://ejcm.com.br/" alt="ejcm">EJCM Consultoria</a>**
 
 <a href="mailto:vitorlcardoso17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/vitor-lucio-giorgio"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -34,7 +32,9 @@
 <img align="center" alt="vitor-node" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/nodejs.svg"/>
 <img align="center" alt="vitor-mysql" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"/>
 <img align="center" alt="vitor-postgres" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg"/>
-<img align="center" alt="vitor-mongo" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mongodb.svg"/>  
+<img align="center" alt="vitor-mongo" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mongodb.svg"/>
+<img align="center" alt="vitor-mongo" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg"/>
+<img align="center" alt="vitor-mongo" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/spring.svg"/>
  
   <hr/>
 
