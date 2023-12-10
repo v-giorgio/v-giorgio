@@ -17,13 +17,13 @@
 <hr/>
   
 ### Front-end
-<img align="center" alt="vitor-js" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"/>
-<img align="center" alt="vitor-ts" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg"/>
-<img align="center" alt="vitor-css" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"/>
-<img align="center" alt="vitor-html" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg"/>
-<img align="center" alt="vitor-jquery" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg"/>
-<img align="center" alt="vitor-react" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg"/>
-<img align="center" alt="vitor-bootstrap" height="100" width="70" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg"/>  
+<img align="center" alt="vitor-js" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="vitor-ts" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="vitor-css" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+<img align="center" alt="vitor-html" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img align="center" alt="vitor-jquery" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"/>
+<img align="center" alt="vitor-react" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img align="center" alt="vitor-bootstrap" height="100" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>  
 
   <hr/>
   
