@@ -3,7 +3,7 @@
  
 ✨ **Software Developer at <a href="https://ciandt.com/br/pt-br" alt="ufrj">CI&T</a>** <br>
 ✨ **Computer Science Student at <a href="https://ufrj.br/" alt="ufrj">UFRJ</a>** <br>
-✨ **AI Engineering Enthusiast** <br>
+✨ **AI & ML Engineering Enthusiast** <br>
 
 <a href="https://www.linkedin.com/in/vitor-lucio-giorgio"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
